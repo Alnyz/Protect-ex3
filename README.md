@@ -7,11 +7,13 @@
 How to use:
 1. install module first:
 
-     - pip install linepy
+      - pip install linepy
    
-     - pip install timeago
+      - pip install timeago
    
-     - pip install thrift==0.11.0
+      - pip install thrift==0.11.0
+     
+     
 2. python3 pro.py
 
 Thanks to Fadhiilrachman Lib
